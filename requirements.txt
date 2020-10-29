@@ -1,0 +1,13 @@
+imutils==0.5.3
+Keras==2.4.3
+Keras-Applications
+Keras-Preprocessing==1.1.0
+numpy==1.18.5
+opencv-python==4.4.0.42
+Pillow
+scikit-learn==0.20.0
+scipy==1.5.2
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.1.0
+tensorflow-estimator==2.1.0
